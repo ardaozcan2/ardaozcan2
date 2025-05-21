@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ardaozcan2
-- 👀 I’m interested in english, ai, iot, engineering
-- 🌱 I’m currently learning C#
-- 📫 You can reach me from arda_ozcan1995@hotmail.com
+- Hi, I’m Arda
+- I’m interested in control theory, system identification and mechatronics
+- I’m currently learning python, ML
+- You can reach me from ardaozcan7@gmail.com
 
 <!---
 ardaozcan2/ardaozcan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
